@@ -1,5 +1,4 @@
 # Indian Used Car Price Prediction
-![](http://cdn.dribbble.com/users/1239720/screenshots/3506944/car_mg.gif)
 ## Project Overview
 The aim of this data science project is to predict the price of used cars in major Indian metro cities. The prediction is based on various car features, including the car's manufacturer, model, variant, fuel type, color, kilometers driven, body style, transmission type, manufacture date, model year, CNG kit availability, ownership history, dealer details, and a quality score. The project utilizes data analysis and machine learning techniques to provide insights and price predictions, ultimately helping both buyers and sellers in the used car market.
 
