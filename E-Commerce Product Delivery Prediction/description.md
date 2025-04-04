@@ -3,6 +3,7 @@
 ## Project Overview:
 The aim of this project is to predict whether products from an international e-commerce company will reach customers on time or not. Additionally, the project analyzes various factors influencing product delivery and studies customer behavior. The company primarily sells electronic products.
 
+
 ## Data Dictionary:
 The dataset used for model building contains 10,999 observations of 12 variables, including:
 
