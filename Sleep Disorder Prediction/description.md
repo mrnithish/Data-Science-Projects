@@ -8,6 +8,7 @@ This project aims to analyze lifestyle and medical factors such as age, BMI, phy
 ## Dataset Description  
 The "Sleep Health and Lifestyle Dataset" includes 400 individuals with 13 variables covering sleep patterns, daily habits, and health indicators:  
 
+
 ### Key Features  
 - **Sleep Metrics:** Sleep duration, quality, and related influencing factors.  
 - **Lifestyle Factors:** Physical activity, stress levels, and BMI categories.  
