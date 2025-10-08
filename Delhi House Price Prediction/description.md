@@ -8,7 +8,6 @@ The "Delhi House Price Prediction" project focuses on forecasting house prices i
 ## Data Dictionary
 The dataset contains 1259 rows and 11 columns, each representing specific house attributes:
 
-
 | Column Name  | Description                          |
 |--------------|--------------------------------------|
 | Area         | Area of the house in square feet    |
